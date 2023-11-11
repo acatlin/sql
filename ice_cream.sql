@@ -1,4 +1,5 @@
 -- ice_cream.sql
+-- updated 11-Nov-2023
 -- crosstab functionality is implemented differently in different RDBMSs,
 --   e.g. Microsoft PIVOT
 -- example is from Anthony DeBarros's Practical SQL, 2nd edition

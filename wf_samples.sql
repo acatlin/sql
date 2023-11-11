@@ -1,4 +1,5 @@
 -- wf_samples.sql
+-- AFC East teams
 
 SELECT round(avg(home_points),1) AS home_avg
   FROM afc_east
